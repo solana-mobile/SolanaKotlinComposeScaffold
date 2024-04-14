@@ -1,3 +1,4 @@
+
 # SolanaKotlinComposeScaffold
 
 A boilerplate example app for Solana Mobile dApps built using Jetpack Compose.
