@@ -51,3 +51,61 @@ git clone https://github.com/solana-mobile/solana-kotlin-compose-scaffold.git
 - `Compatible wallet not found.`
   - Make sure you install a compatible MWA wallet on your device, like Phantom, Solflare, Ultimate, or `fakewallet`. Follow
     the [setup guide](https://docs.solanamobile.com/getting-started/development-setup).
+That sounds like an innovative project! Here's a step-by-step guide on how to achieve this:
+
+### 1. **Create Advanced AI Filters**
+
+You need to develop AI filters first. Tools and platforms to create such filters include:
+
+- **Spark AR**: For Facebook and Instagram.
+- **Lens Studio**: For Snapchat.
+
+These platforms provide a robust set of tools for developing advanced AR filters.
+
+### 2. **Integrate AI Models**
+
+To make your filters more advanced, you can integrate machine learning models using libraries like TensorFlow.js or MediaPipe. You might need to export your models and integrate them into the AR platforms.
+
+### 3. **Minting Filters as NFTs**
+
+For minting your filters as NFTs on the blockchain, you can use platforms like OKX. Here's a general process:
+
+#### a. **Prepare Your Digital Assets**
+
+Export your filters and related files in a format that can be minted. Common formats include images, videos, or 3D models.
+
+#### b. **Select an NFT Marketplace**
+
+Choose an NFT marketplace that supports the OKX blockchain, such as OKX NFT Marketplace. Register and create a wallet if you don't already have one.
+
+#### c. **Minting Process**
+
+1. **Upload your Filter Assets**: Upload the assets you prepared.
+2. **Metadata**: Provide metadata for your NFT. This includes the name, description, and any attributes of your filter.
+3. **Mint**: Mint the NFT by following the platform’s process, which typically involves signing a transaction with your wallet.
+
+### 4. **Deploy and Distribute Filters**
+
+Once minted, distribute your filters across the platforms (Facebook, Instagram, Snapchat). You can share the filter links and NFT ownership details on these platforms to attract users.
+
+### 5. **Start Free, Then Monetize**
+
+Initially, offer your filters for free to build a user base. Once you gain traction, start charging for premium filters. Use the NFT smart contracts to manage ownership and royalties.
+
+### Platform and Tools Summary
+
+- **AR Filter Creation**: Spark AR (Instagram, Facebook), Lens Studio (Snapchat)
+- **AI Integration**: TensorFlow.js, MediaPipe
+- **Blockchain & NFT**: OKX NFT Marketplace
+
+### Resources
+
+1. **[Spark AR](https://sparkar.facebook.com/ar-studio/)**
+2. **[Lens Studio](https://lensstudio.snapchat.com/)**
+3. **[TensorFlow.js](https://www.tensorflow.org/js)**
+4. **[MediaPipe](https://mediapipe.dev/)**
+5. **[OKX NFT Marketplace](https://www.okx.com/nft)**
+  
+Using these platforms, you can create and mint your AI-powered filters as NFTs, then distribute them through popular social media apps.
+
+Feel free to reach out if you have specific questions about any of these steps!
